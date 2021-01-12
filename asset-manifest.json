@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/TTP-FormEdit/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/TTP-FormEdit/static/js/main.6219a8a5.chunk.js",
+    "main.js.map": "/TTP-FormEdit/static/js/main.6219a8a5.chunk.js.map",
+    "runtime-main.js": "/TTP-FormEdit/static/js/runtime-main.353e348a.js",
+    "runtime-main.js.map": "/TTP-FormEdit/static/js/runtime-main.353e348a.js.map",
+    "static/js/2.b96b2e20.chunk.js": "/TTP-FormEdit/static/js/2.b96b2e20.chunk.js",
+    "static/js/2.b96b2e20.chunk.js.map": "/TTP-FormEdit/static/js/2.b96b2e20.chunk.js.map",
+    "static/js/3.d7557197.chunk.js": "/TTP-FormEdit/static/js/3.d7557197.chunk.js",
+    "static/js/3.d7557197.chunk.js.map": "/TTP-FormEdit/static/js/3.d7557197.chunk.js.map",
+    "index.html": "/TTP-FormEdit/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/TTP-FormEdit/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.b96b2e20.chunk.js.LICENSE.txt": "/TTP-FormEdit/static/js/2.b96b2e20.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/TTP-FormEdit/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.353e348a.js",
+    "static/js/2.b96b2e20.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.6219a8a5.chunk.js"
+  ]
+}
